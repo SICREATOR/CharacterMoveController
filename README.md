@@ -13,7 +13,7 @@
 
 ## Оптимальные настройки
 
-[![Настройки контроллера]()]()  
+[![Настройки контроллера](Assets/Screenshots/controller_settings.png)]()  
 
 ## Assets
 Контроллер разработан с использованием ассета [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) из Unity Asset Store.
